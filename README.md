@@ -16,7 +16,7 @@ Desenvolvedor de software focado na construção de sistemas escaláveis, integr
 
 ### 🚀 Projetos em Destaque
 
-- 🔹 **[Concurso_Agentes]([https://github.com/adrianomr21/Gerador-QTI](https://github.com/adrianomr21/Concurso_Agentes)):** Equipes de agentes de IA para estudar concurso público.
+- 🔹 **[Concurso_Agentes](https://github.com/adrianomr21/Gerador-QTI):** Equipes de agentes de IA para estudar concurso público.
 - 🔹 **[Gerador-QTI](https://github.com/adrianomr21/Gerador-QTI):** Engine para estruturação e conversão automatizada de instrumentos de avaliação para o padrão internacional IMS QTI 2.0.
 - 🔹 **[Tarefas no Bitrix24](https://github.com/adrianomr21/Tarefas-no-Bitrix):** Automação de fluxos e tarefas operacionais integrado ao ecossistema Bitrix24.
 - 🔹 **[CRM & Gestão Acadêmica](https://github.com/adrianomr21/gestao-academica-backend):** Arquitetura backend/frontend para gestão de dados e processos acadêmicos.
